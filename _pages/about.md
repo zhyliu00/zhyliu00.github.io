@@ -58,3 +58,5 @@ My research focuses on data mining and dataset distillation techniques for time 
 - CS7346 Algorithm design and analysis for big data (2022,2023)
 - CS4304 Big data algorithm and analysis (2022,2023)
 - CS0501 Data structure (2021,2022)
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VdkFKVYJUN6-p18GSaTFMiGRJSEwEOm0bcfbO2wYsU4&cl=ffffff&w=a"></script>
