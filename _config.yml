@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhanyu Liu (刘展宇)"
+title                    : "Zhanyu Liu\n(刘展宇)"
 description              : "Ph.D. candidate at Shanghai Jiao Tong University"
 repository               : "zhyliu00/zhyliu00.github.io"
 google_scholar_stats_use_cdn : false
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhanyu Liu (刘展宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : 
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
