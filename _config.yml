@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhanyu Liu's Homepage"
-description              : "Zhanyu Liu's Homepage"
+title                    : "Zhanyu Liu (刘展宇)"
+description              : "Ph.D. candidate at Shanghai Jiao Tong University"
 repository               : "zhyliu00/zhyliu00.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhanyu Liu"
+  name             : "Zhanyu Liu (刘展宇)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhyliu" # e.g., "github username"
+  github           : "zhyliu00" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
