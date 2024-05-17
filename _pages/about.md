@@ -45,7 +45,6 @@ My research focuses on data mining and dataset distillation techniques for time 
 - Tanglixin Scholarship, 2019
 
 
-
 <span class='anchor' id='others'></span>
 
 # 💬 Presentations
@@ -53,7 +52,6 @@ My research focuses on data mining and dataset distillation techniques for time 
 - 2023 International Conference on Intelligent Transportation Systems **(ITSC)**, Bilbao, Spain  
 - 2023 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery **(ECMLPKDD)**, Turin, Italy
 - 2023 ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD)**, Long Beach, USA
-
 
 
 # 📚 Teaching Assistant
