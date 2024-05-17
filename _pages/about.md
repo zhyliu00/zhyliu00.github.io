@@ -25,6 +25,9 @@ My research focuses on data mining and dataset distillation techniques for time 
 
 # 📝 Publications 
 
+- <b><u>Zhanyu Liu</u></b>, Ke Hao, Guanjie Zheng, Yanwei Yu. Dataset Condensation for Time Series Classification via Dual Domain Matching. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2024)**. [[Paper](https://arxiv.org/abs/2403.07245)][[Code](https://github.com/zhyliu00/TimeSeriesCond)]
+
+- <b><u>Zhanyu Liu</u></b>\*, Chaolv Zeng\*, Guanjie Zheng. Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2024)**. [[Paper](https://arxiv.org/abs/2403.07294)][[Code](https://github.com/zclzcl0223/GCSR)]
 
 - <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank. The 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2023)**. [[Paper](https://dl.acm.org/doi/10.1145/3583780.3614829)][[Code](https://github.com/zhyliu00/TPB)]
 
