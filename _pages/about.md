@@ -33,6 +33,8 @@ My research focuses on data mining and dataset distillation techniques for time 
 
 - <b><u>Zhanyu Liu</u></b>, Chumeng Liang, Guanjie Zheng, Hua Wei. FDTI: Fine-grained Deep Traffic Inference with Roadnet-enriched Graph. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2023 **(ECMLPKDD 2023)**. [[Paper](https://arxiv.org/abs/2306.10945)][[Code](https://github.com/zhyliu00/FDTI/)]
 
+- Ziyang Su, <b><u>Zhanyu Liu</u></b>, Jianrong Ding, Guanjie Zheng. POI-based Traffic Generation via Supervised Contrastive Learning on Reconstructed Graph. 29th International Conference on Database Systems for Advanced Applications **(DASFAA 2024)**
+
 - Chumeng Liang, Zherui Huang, Yicheng Liu, <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Hanyuan Shi, Kan Wu, Yuhao Du, Fuliang Li, Zhenhui Li. Cblab: Scalable Traffic Simulation with Enriched Data Supporting. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2023)**. [[Paper](https://arxiv.org/abs/2210.00896)][[Code](https://github.com/CaradryanLiang/CityBrainLab)]
 
 - Zhao Kang, <b><u>Zhanyu Liu</u></b>, Shirui Pan, Ling Tian. Fine-grained Attributed Graph Clustering. SIAM International Conference on Data Mining, 2022 **(SDM 2022)**. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611977172.42)][[Code](https://github.com/sckangz/FGC)]
