@@ -29,6 +29,8 @@ My research focuses on data mining and dataset distillation techniques for time 
 
 - <b><u>Zhanyu Liu</u></b>\*, Chaolv Zeng\*, Guanjie Zheng. Graph Data Condensation via Self-expressive Graph Structure Reconstruction. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2024)**. [[Paper](https://arxiv.org/abs/2403.07294)][[Code](https://github.com/zclzcl0223/GCSR)]
 
+- <b><u>Zhanyu Liu</u></b>, Jianrong Ding, Guanjie Zheng. Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2024 **(ECMLPKDD 2024)**.[[Paper](https://arxiv.org/abs/2406.02614)][[Code](https://github.com/zhyliu00/FEPCross)]
+
 - <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank. The 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2023)**. [[Paper](https://dl.acm.org/doi/10.1145/3583780.3614829)][[Code](https://github.com/zhyliu00/TPB)]
 
 - <b><u>Zhanyu Liu</u></b>, Chumeng Liang, Guanjie Zheng, Hua Wei. FDTI: Fine-grained Deep Traffic Inference with Roadnet-enriched Graph. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2023 **(ECMLPKDD 2023)**. [[Paper](https://arxiv.org/abs/2306.10945)][[Code](https://github.com/zhyliu00/FDTI/)]
@@ -62,4 +64,4 @@ My research focuses on data mining and dataset distillation techniques for time 
 - CS4304 Big data algorithm and analysis (2022,2023)
 - CS0501 Data structure (2021,2022)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VdkFKVYJUN6-p18GSaTFMiGRJSEwEOm0bcfbO2wYsU4&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=VdkFKVYJUN6-p18GSaTFMiGRJSEwEOm0bcfbO2wYsU4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
