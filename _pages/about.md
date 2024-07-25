@@ -29,6 +29,8 @@ My research focuses on data mining and dataset distillation techniques for time 
 
 - <b><u>Zhanyu Liu</u></b>\*, Chaolv Zeng\*, Guanjie Zheng. Graph Data Condensation via Self-expressive Graph Structure Reconstruction. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2024)**. [[Paper](https://arxiv.org/abs/2403.07294)][[Code](https://github.com/zclzcl0223/GCSR)]
 
+- <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting. Preprints. [[Paper](https://arxiv.org/abs/2402.00397)][[Code](https://github.com/zhyliu00/MTPB)]
+
 - <b><u>Zhanyu Liu</u></b>, Jianrong Ding, Guanjie Zheng. Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2024 **(ECMLPKDD 2024)**.[[Paper](https://arxiv.org/abs/2406.02614)][[Code](https://github.com/zhyliu00/FEPCross)]
 
 - <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank. The 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2023)**. [[Paper](https://dl.acm.org/doi/10.1145/3583780.3614829)][[Code](https://github.com/zhyliu00/TPB)]
@@ -45,6 +47,7 @@ My research focuses on data mining and dataset distillation techniques for time 
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+- KDD Student Travel Award, 2024
 - National Scholarship, The Ministry of Education of China. 2019
 - Tanglixin Scholarship, 2019
 
