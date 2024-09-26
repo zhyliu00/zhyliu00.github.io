@@ -29,6 +29,8 @@ My research focuses on data mining and dataset distillation techniques for time 
 
 - <b><u>Zhanyu Liu</u></b>\*, Chaolv Zeng\*, Guanjie Zheng. Graph Data Condensation via Self-expressive Graph Structure Reconstruction. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2024)**. [[Paper](https://arxiv.org/abs/2403.07294)][[Code](https://github.com/zclzcl0223/GCSR)]
 
+- Jianrong Ding\*, <b><u>Zhanyu Liu</u></b>\*, Guanjie Zheng, Haiming Jin, Linghe Kong. CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting. The Thirty-eighth Annual Conference on Neural Information Processing Systems **(NIPS 2024)**. [[Paper](https://arxiv.org/abs/2406.02131)][[Code](https://github.com/RafaDD/CondTSF)]
+
 - <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting. Preprints. [[Paper](https://arxiv.org/abs/2402.00397)][[Code](https://github.com/zhyliu00/MTPB)]
 
 - <b><u>Zhanyu Liu</u></b>, Jianrong Ding, Guanjie Zheng. Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2024 **(ECMLPKDD 2024)**.[[Paper](https://arxiv.org/abs/2406.02614)][[Code](https://github.com/zhyliu00/FEPCross)]
@@ -55,6 +57,7 @@ My research focuses on data mining and dataset distillation techniques for time 
 <span class='anchor' id='others'></span>
 
 # 💬 Presentations
+- 2024 ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD)**, Barcelona, Spain
 - 2023 ACM International Conference on Information and Knowledge Management **(CIKM)**, Birmingham, UK  
 - 2023 International Conference on Intelligent Transportation Systems **(ITSC)**, Bilbao, Spain  
 - 2023 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery **(ECMLPKDD)**, Turin, Italy
