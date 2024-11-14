@@ -49,6 +49,7 @@ My research focuses on data mining and dataset distillation techniques for time 
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+- National Scholarship, The Ministry of Education of China. 2024
 - KDD Student Travel Award, 2024
 - National Scholarship, The Ministry of Education of China. 2019
 - Tanglixin Scholarship, 2019
