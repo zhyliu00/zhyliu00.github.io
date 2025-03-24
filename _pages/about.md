@@ -63,6 +63,7 @@ My research focuses on data mining and dataset distillation techniques for time 
 <span class='anchor' id='others'></span>
 
 # 💬 Presentations
+- 2024 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery **(ECMLPKDD)**, Vilnius, Lithuania
 - 2024 ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD)**, Barcelona, Spain
 - 2023 ACM International Conference on Information and Knowledge Management **(CIKM)**, Birmingham, UK  
 - 2023 International Conference on Intelligent Transportation Systems **(ITSC)**, Bilbao, Spain  
@@ -77,3 +78,14 @@ My research focuses on data mining and dataset distillation techniques for time 
 - CS0501 Data structure (2021,2022)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=VdkFKVYJUN6-p18GSaTFMiGRJSEwEOm0bcfbO2wYsU4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
+# Professional Activities
+- Conference Reviewer 
+
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (2024, 2025)
+
+- Journal Reviewer 
+
+  IEEE Transactions on Knowledge and Data Engineering
+  
+  ACM Transactions on Knowledge Discovery from Data
