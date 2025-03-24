@@ -77,7 +77,6 @@ My research focuses on data mining and dataset distillation techniques for time 
 - CS4304 Big data algorithm and analysis (2022,2023)
 - CS0501 Data structure (2021,2022)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=VdkFKVYJUN6-p18GSaTFMiGRJSEwEOm0bcfbO2wYsU4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
 # 📃 Professional Activities
 - Conference Reviewer 
@@ -89,3 +88,5 @@ My research focuses on data mining and dataset distillation techniques for time 
   IEEE Transactions on Knowledge and Data Engineering
   
   ACM Transactions on Knowledge Discovery from Data
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=VdkFKVYJUN6-p18GSaTFMiGRJSEwEOm0bcfbO2wYsU4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
