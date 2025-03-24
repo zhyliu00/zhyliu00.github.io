@@ -31,7 +31,7 @@ My research focuses on data mining and dataset distillation techniques for time 
 
 - Jianrong Ding\*, <b><u>Zhanyu Liu</u></b>\*, Guanjie Zheng, Haiming Jin, Linghe Kong. CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting. The Thirty-eighth Annual Conference on Neural Information Processing Systems **(NIPS 2024)**. [[Paper](https://arxiv.org/abs/2406.02131)][[Code](https://github.com/RafaDD/CondTSF)]
 
-- <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting. Preprints. [[Paper](https://arxiv.org/abs/2402.00397)][[Code](https://github.com/zhyliu00/MTPB)]
+- <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting. ACM Transactions on Knowledge Discovery from Data **(TKDD 2025)**. [[Paper](https://arxiv.org/abs/2402.00397)][[Code](https://github.com/zhyliu00/MTPB)]
 
 - <b><u>Zhanyu Liu</u></b>, Jianrong Ding, Guanjie Zheng. Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2024 **(ECMLPKDD 2024)**.[[Paper](https://arxiv.org/abs/2406.02614)][[Code](https://github.com/zhyliu00/FEPCross)]
 
@@ -44,7 +44,12 @@ My research focuses on data mining and dataset distillation techniques for time 
 - Chumeng Liang, Zherui Huang, Yicheng Liu, <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Hanyuan Shi, Kan Wu, Yuhao Du, Fuliang Li, Zhenhui Li. Cblab: Scalable Traffic Simulation with Enriched Data Supporting. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2023)**. [[Paper](https://arxiv.org/abs/2210.00896)][[Code](https://github.com/CaradryanLiang/CityBrainLab)]
 
 - Zhao Kang, <b><u>Zhanyu Liu</u></b>, Shirui Pan, Ling Tian. Fine-grained Attributed Graph Clustering. SIAM International Conference on Data Mining, 2022 **(SDM 2022)**. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611977172.42)][[Code](https://github.com/sckangz/FGC)]
- 
+
+# 💻 Projects 
+
+- Organizer Team of KDD CUP 2021 : City Brain Challenge
+  
+
 
 <span class='anchor' id='honors-and-awards'></span>
 
