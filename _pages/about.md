@@ -19,11 +19,13 @@ redirect_from:
 
 I am currently a Ph.D. candidate at Shanghai Jiao Tong University, supervised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/). I earned B.Eng. in Computer Science and Technology at [Yingcai Honors College, University of Electronic Science and Technology of China](https://www.yingcai.uestc.edu.cn/), 2021.
 
-My research focuses on data mining and dataset distillation techniques for time series and spatial-temporal data.
+My research focuses on Recommender System, LLM and Dataset Distillation.
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+
+- <b><u>Zhanyu Liu</u></b>\*, Shiyao Wang\*, Xingmei Wang, et al. OneRec-Think: In-Text Reasoning for Generative Recommendation. Arxiv.[[Paper](https://arxiv.org/abs/2510.11639)]
 
 - <b><u>Zhanyu Liu</u></b>, Ke Hao, Guanjie Zheng, Yanwei Yu. Dataset Condensation for Time Series Classification via Dual Domain Matching. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2024)**. [[Paper](https://arxiv.org/abs/2403.07245)][[Code](https://github.com/zhyliu00/TimeSeriesCond)]
 
@@ -32,6 +34,8 @@ My research focuses on data mining and dataset distillation techniques for time 
 - Jianrong Ding\*, <b><u>Zhanyu Liu</u></b>\*, Guanjie Zheng, Haiming Jin, Linghe Kong. CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting. The Thirty-eighth Annual Conference on Neural Information Processing Systems **(NIPS 2024)**. [[Paper](https://arxiv.org/abs/2406.02131)][[Code](https://github.com/RafaDD/CondTSF)]
 
 - <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting. ACM Transactions on Knowledge Discovery from Data **(TKDD 2025)**. [[Paper](https://arxiv.org/abs/2402.00397)][[Code](https://github.com/zhyliu00/MTPB)]
+
+- <b><u>Zhanyu Liu</u></b>, Xudong Zhang, Zhidong Hu, Xiejing Li, Fei Peng, Jian Zhou, Siyu Deng, Guanjie Zheng. Supply Framework of Physical Machine Demand in Elastic Computing Service. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2025 (ECMLPKDD 2025, CCF B)[[Paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_222.pdf)]
 
 - <b><u>Zhanyu Liu</u></b>, Jianrong Ding, Guanjie Zheng. Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2024 **(ECMLPKDD 2024)**.[[Paper](https://arxiv.org/abs/2406.02614)][[Code](https://github.com/zhyliu00/FEPCross)]
 
@@ -45,11 +49,16 @@ My research focuses on data mining and dataset distillation techniques for time 
 
 - Zhao Kang, <b><u>Zhanyu Liu</u></b>, Shirui Pan, Ling Tian. Fine-grained Attributed Graph Clustering. SIAM International Conference on Data Mining, 2022 **(SDM 2022)**. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611977172.42)][[Code](https://github.com/sckangz/FGC)]
 
+
+# 💼 Experiences
+
+- <b>Kstar Algorithm Intern</b>, OneRec Team, Kuaishou Inc., <i>2025.5-now</i>
+- <b>Research Intern</b>, Elastic Computing Group, Alibaba Cloud, <i>2024.3-2024.8</i>
+
 # 💻 Projects 
 
 - Organizer Team of KDD CUP 2021 : City Brain Challenge
   
-
 
 <span class='anchor' id='honors-and-awards'></span>
 
