@@ -35,7 +35,7 @@ My research focuses on Recommender System, LLM and Dataset Distillation.
 
 - <b><u>Zhanyu Liu</u></b>, Guanjie Zheng, Yanwei Yu. Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting. ACM Transactions on Knowledge Discovery from Data **(TKDD 2025)**. [[Paper](https://arxiv.org/abs/2402.00397)][[Code](https://github.com/zhyliu00/MTPB)]
 
-- <b><u>Zhanyu Liu</u></b>, Xudong Zhang, Zhidong Hu, Xiejing Li, Fei Peng, Jian Zhou, Siyu Deng, Guanjie Zheng. Supply Framework of Physical Machine Demand in Elastic Computing Service. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2025 (ECMLPKDD 2025, CCF B)[[Paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_222.pdf)]
+- <b><u>Zhanyu Liu</u></b>, Xudong Zhang, Zhidong Hu, Xiejing Li, Fei Peng, Jian Zhou, Siyu Deng, Guanjie Zheng. Supply Framework of Physical Machine Demand in Elastic Computing Service. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2025 **(ECMLPKDD 2025)**[[Paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_222.pdf)]
 
 - <b><u>Zhanyu Liu</u></b>, Jianrong Ding, Guanjie Zheng. Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2024 **(ECMLPKDD 2024)**.[[Paper](https://arxiv.org/abs/2406.02614)][[Code](https://github.com/zhyliu00/FEPCross)]
 
